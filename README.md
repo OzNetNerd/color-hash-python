@@ -1,5 +1,7 @@
 # color-hash
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/aa7e0600-4034-4b78-8365-dc9b6a52a03c.svg?orgId=401166500955)](https://app.soluble.cloud/repos/details/github.com/oznetnerd/color-hash-python?orgId=401166500955)  
+
 **Generate a color based on a value**
 
 This module generates a color based on an object, by calculating a color value
